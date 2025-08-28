@@ -1,6 +1,9 @@
 ## Here is Tono 👋
-I am Software Tools Developer, with background in MSc Industrial Engineering. I am passionate of coding, Machine Learning, math algorithms, and their applicability to real life scenarios.
-I have worked as Data Scientist, Software Tools Developer and currently as Engineering Tools Specialist. Amoung my stack: Python, R, SQL, Flask, GitHub actions and bash scripting. I am also focused on obtaining Cloud Computing certifications, specifically Azure certifications.
+I am Software Tools Developer, with background in MSc Industrial Engineering. I am passionate of coding, software solutions, Machine Learning, math algorithms, and their applicability to real life scenarios.
+I have worked as Data Scientist, Software Tools Developer and currently as Engineering Tools Specialist.
+
+Amoung my stack: Python, FastAPI/Flask, SQL,  LLMs, GitHub actions and bash scripting.
+I am also proficient with AWS Cloud: EC2, S3, Lambda, Bedrock, SageMaker.
 
 <!--
 **tonorgguillamon/tonorgguillamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
