@@ -1,6 +1,6 @@
 ## Here is Tono 👋
-I am Software Tools Developer, with background in MSc Industrial Engineering. I am passionate of coding, software solutions, Machine Learning, math algorithms, and their applicability to real life scenarios.
-I have worked as Data Scientist, Software Tools Developer and currently as Engineering Tools Specialist.
+I am Software Developer, with background in MSc Industrial Engineering. I am passionate of coding, software solutions, Machine Learning, LLMs, math algorithms, and their applicability to real life scenarios.
+I am currently working as Backend Software Developer.
 
 Amoung my stack: Python, FastAPI/Flask, SQL,  LLMs, GitHub actions and bash scripting.
 I am also proficient with AWS Cloud: EC2, S3, Lambda, Bedrock, SageMaker.
