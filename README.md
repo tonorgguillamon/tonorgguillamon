@@ -4,9 +4,9 @@ I am Software Engineer, with background in MSc Industrial Engineering. I am pass
 I am currently working as Backend Software Engineer for FLuke. Previously, for Valeo as Software Tools Developer.
 
 Amoung my stack:
-Python, FastAPI/Flask, PostgreSQL,  LLMs, GitHub actions, bash scripting (Linux deployments) and Docker.
-LLM and Agents solutions: HuggingFace, OpenAI, LangChain and LangGraph.
-Regarding cloud: AWS -> EC2, S3, Lambda, Bedrock, SageMaker, CloudWatch, API Gateway, ECS Fargate.
+- Python, FastAPI/Flask, PostgreSQL,  LLMs, GitHub actions, bash scripting (Linux deployments) and Docker.
+- LLM and Agents solutions: HuggingFace, OpenAI, LangChain and LangGraph.
+- Regarding cloud: AWS -> EC2, S3, Lambda, Bedrock, SageMaker, CloudWatch, API Gateway, ECS Fargate.
 
 Getting specialized in AI: Artifical Intelligence Professional Program, by Stanford: https://online.stanford.edu/programs/artificial-intelligence-professional-program
 
